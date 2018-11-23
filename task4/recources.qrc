@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/Files"/>
+    <qresource prefix="/Filess"/>
+    <qresource prefix="/files"/>
+</RCC>
