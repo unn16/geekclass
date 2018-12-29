@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/files">
+        <file>files/ios.jpg</file>
+        <file>files/android.jpg</file>
+    </qresource>
+</RCC>
